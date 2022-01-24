@@ -26,7 +26,7 @@ sudo nano /etc/network/interfaces
 # The primary network interface
 allow-hotplug enp3s0f0
 iface enp3s0f0 inet static
-    address 192.168.1.9
+    address 192.168.1.10
     netmask 255.255.255.0
     network 192.168.1.0
     broadcast 192.168.1.255

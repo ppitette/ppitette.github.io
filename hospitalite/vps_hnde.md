@@ -2,7 +2,7 @@
 
 ## Installation
 
-Depuis la console OVH, déclancher l'installation d'un serveur Debian et attendre le message qui donnrea les premiers moyens pour y accéder.
+Depuis la console OVH, déclencher l'installation d'un serveur Debian et attendre le message qui donnrea les premiers moyens pour y accéder.
 
 ## Connection
 

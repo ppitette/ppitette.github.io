@@ -22,7 +22,7 @@ Ce tutoriel suppose que vous avez déjà les éléments suivants :
 - L'utilitaire Certbot installé, version `0.22.0` ou ultérieure. Si vous avez besoin d'aide pour installer Certbot, veuillez visiter notre page de tags [Let's Encrypt](https://www.digitalocean.com/community/tags/let-s-encrypt), où vous trouverez des guides d'installation pour une variété de distributions Linux et de serveurs. Certaines configurations courantes sont listées ci-dessous :
   - [Comment sécuriser Nginx avec Let's Encrypt sur Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04)
   - [Comment sécuriser Apache avec Let's Encrypt sur Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-20-04)
-  - [Comment utiliser le mode autonome de Certbot pour récupérer les certificats SSL Let's Encrypt sur Ubuntu 18.04] (https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates-on-ubuntu-1804)
+  - [Comment utiliser le mode autonome de Certbot pour récupérer les certificats SSL de Let's Encrypt sur Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates-on-ubuntu-1804)
 - Un nom de domaine, et un fournisseur DNS qui est supporté par Certbot. Voir la liste des plugins DNS de Certbot pour la liste des fournisseurs supportés.
 
 Commençons par configurer et tester nos enregistrements DNS.

@@ -10,7 +10,10 @@ sudo apt install bind9 bind9utils bind9-doc dnsutils
 
 ### Modifier le fichier /etc/resolv.conf
 
+```
 sudo vim /etc/resolv.conf
+```
+
 ```
 domain pitette.lan
 search pitette.lan
@@ -19,8 +22,11 @@ nameserver 192.168.1.11
 
 ### Adapter le fichier /etc/bind/named.conf.options
 
+```
 sudo cp /etc/bind/named.conf.options /etc/bind/named.conf.options_ori
 sudo nano /etc/bind/named.conf.options
+```
+
 ```
 acl "trusted" {
     192.168.1.0/24;
@@ -63,8 +69,11 @@ options {
 
 ### Adapter le fichier /etc/bind/named.conf.local
 
+```
 sudo cp /etc/bind/named.conf.local /etc/bind/named.conf.local_ori
 sudo nano /etc/bind/named.conf.local
+```
+
 ```
 //
 // Do any local configuration here
@@ -89,7 +98,10 @@ zone "1.168.192.in-addr-arpa" {
 
 ### Créer le fichier /etc/bind/db.pitette.lan.hosts
 
+```
 sudo nano /etc/bind/db.pitette.lan.hosts
+```
+
 ```
 ; /etc/bind/db.pitette.lan
 $TTL    86400
@@ -116,7 +128,10 @@ hpenvy15 IN      A       192.168.1.21
 
 ### Créer le fichier /etc/bind/db.pitette.lan.rev
 
+```
 sudo nano /etc/bind/db.pitette.rev
+```
+
 ```
 $TTL    86400
 @       IN      SOA     tleilax.pitette.lan. root.pitette.lan. (
@@ -141,9 +156,11 @@ $TTL    86400
 21              PTR     hpenvy15.pitette.lan.
 ```
 
+```
 sudo named-checkconf /etc/bind/named.conf
 sudo named-checkzone 1.168.192.in.addr.arpa /etc/bind/db.pitette.rev
 sudo named-checkzone pitette.lan /etc/bind/db.pitette.lan
+```
 
 ## Redémarrage du serveur
 
@@ -152,6 +169,3 @@ sudo service bind9 restart
 ```
 
 Vérifier le bon fonctionnement du service :
-```
-
-```

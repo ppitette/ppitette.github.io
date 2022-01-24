@@ -16,7 +16,7 @@ sudo nano /etc/network/interfaces
 # The primary network interface
 allow-hotplug enp3s0f0
 iface enp3s0f0 inet static
-    address 192.168.1.9
+    address 192.168.1.10
     netmask 255.255.255.0
     network 192.168.1.0
     broadcast 192.168.1.255
@@ -39,7 +39,7 @@ caladan
 
 ## Compléments
 
-passer surperutilisateur (root) et installer les packages complémentaires
+passer surper-utilisateur (root) et installer les packages complémentaires
 
 ```bash
 su -
@@ -58,7 +58,7 @@ cp zshrc zshenv zlogin zlogout /etc/zsh/
 cp dir_colors /etc/
 ```
 
-Dans le fichier '/etc/zsh/zshenv', commenter le cas échéant la ligne :
+Dans le fichier '/etc/zsh/zshenv', commenter la ligne :
 
 ```bash
 export GREP_OPTIONS='--color=auto'
