@@ -1,4 +1,7 @@
 theme: jekyll-theme-leap-day
+title: Pascal's homepage
+description: Documentation personnelle
+timezone: Europe/Paris
 lsi: false
 safe: true
 source: /
