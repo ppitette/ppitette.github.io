@@ -24,15 +24,21 @@ Les dix thèmes sont exposés dans le document intitulé "feuille de route" à r
 
 Je vous propose de venir à la réunion en ayant réfléchi au ou aux (pas trop) thèmes qui vous inspirent. Nous choisirons en 'live' et enchainerons avec le temsp d'échange.
 
-Le compte-rendu devra être envoyé pour le 23 janvier au plus tard.
+> Le compte-rendu devra être envoyé pour le 23 janvier au plus tard.
 
 ## Feuilles de chant
 
-Quantité
+Quantité à diminuer
 
 Référence des chants !
 
 ## Portail nord
+
+La DRAC a validé la demande de pose d'un groom sur le portail nord afin de maintenir la porte fermée pour éviter l'entrée des pigeons et limite celle de l'air froid
+
+## Groupe de chant
+
+## Pointage de lemprunt des clés
 
 ## Points divers
 
