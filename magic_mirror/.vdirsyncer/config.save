@@ -1,0 +1,43 @@
+# vdirsyncer configuration for MagicMirror.
+#
+# Move it to ~/.vdirsyncer/config or ~/.config/vdirsyncer/config and edit it.
+# Run `vdirsyncer --help` for CLI usage.
+#
+# Optional parameters are commented out.
+# This file doesn't document all available parameters, see
+# http://vdirsyncer.pimutils.org/ for the rest of them.
+#
+
+[general]
+# A folder where vdirsyncer can store some metadata about each pair.
+status_path = "~/.vdirsyncer/status/"
+
+# CALDAV Sync
+[pair Google_to_MagicMirror]
+a = "Google"
+b = "Mirror"
+collections = ["from a"]
+
+
+[storage Google]
+# "client_id":"560300618413-hbneid4lv0eeaddrjl3f9t7in193r13g.apps.googleusercontent.com",
+# "project_id":"gdump-231408",
+# "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+# "token_uri":"https://oauth2.googleapis.com/token",
+# "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+# "client_secret":"cs3c9XtAunR1G1SkiR-O5V2T",
+# "redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]
+type = "google_calendar"
+token_file = "~/.vdirsyncer/token"
+client_id = "560300618413-hbneid4lv0eeaddrjl3f9t7in193r13g.apps.googleusercontent.com"
+client_secret = "cs3c9XtAunR1G1SkiR-O5V2T"
+# We need to keep the number of events low, so we'll just sync the next month
+# Adjust this to your needs
+start_date = "datetime.now() - timedelta(days=1)"
+end_date = "datetime.now() + timedelta(days=30)"
+
+[storage Mirror]
+# We need a single .ics file for use with the mirror (Attention! This is really slow on big amounts of events.)
+type = "singlefile"
+# We'll put the calendar file to a readable location for the calendar module
+path = "~/MagicMirror/modules/calendars/%s.ics"

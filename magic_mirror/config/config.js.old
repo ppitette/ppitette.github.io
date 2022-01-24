@@ -1,0 +1,149 @@
+/* Magic Mirror Config Sample
+ *
+ * By Michael Teeuw http://michaelteeuw.nl
+ * MIT Licensed.
+ *
+ * For more information how you can configurate this file
+ * See https://github.com/MichMich/MagicMirror#configuration
+ *
+ */
+
+var config = {
+	address: "localhost",
+	port: 8080,
+	ipWhitelist: ["127.0.0.1", "::ffff:127.0.0.1", "::1"],
+
+	language: "fr",
+	timeFormat: 24,
+	units: "metric",
+
+	modules: [
+		{
+			module: "alert",
+			welcome_message: "Bonjour"
+		},
+		{
+			module: "updatenotification",
+			position: "top_bar"
+		},
+		{
+			module: "clock",
+			position: "top_left",
+			config: {
+				showWeek: true,
+				dateFormat: "dddd Do MMMM YYYY",
+				displayType: "digital",
+				timezone: "Europe/Paris",
+			}
+		},
+		{
+            module: 'mmm-moon-phases',
+	        header: 'Phase de la lune',
+            position: 'top_left',
+            config: {
+				height: 200,
+				width: 200
+            }
+        },
+		{
+			module: "calendar",
+			header: "Agenda",
+			position: "middle_center",
+			config: {
+				maximumEntries: 11,
+				colored: true,
+				coloredSymbolOnly: false,
+				maxTitleLength: 35,
+				tableClass: "small",
+				timeFormat: "dateheaders",
+				getRelative: 0,
+				dateFormat: "dddd Do MMMM YYYY",
+				calendars: [
+					{
+						symbol: "calendar-check",
+						url: 'http://localhost:8080/modules/calendars/ppitette@gmail.com.ics',
+					},
+					{
+						symbol: "calendar-alt",
+						url: 'http://localhost:8080/modules/calendars/family10810293532408473045@group.calendar.google.com.ics',
+						color: '#0067e8',
+					},
+					{
+						symbol: "church",
+						url: 'http://localhost:8080/modules/calendars/qmh7lghhbvrvdc9459789deds0@group.calendar.google.com.ics',
+						color: '#f5830a',
+					},
+				],
+			},
+		},
+		/*
+		{
+			module: 'MMM-Globe',
+			position: 'middle_center',
+			config: {
+				style: 'europeDiscNat',
+				imageSize: 500,
+				ownImagePath:'',
+				updateInterval: 10*60*1000
+			}
+		},
+		*/
+		{
+			module: "currentweather",
+			position: "top_right",
+			config: {
+				location: "Gravigny, Fr",
+				locationID: "",
+				appid: "f58d6954b8402901c0ffab5378af902a",
+				degreeLabel: true,
+				showHumidity: true,
+				decimalSymbol: ",",
+			}
+		},
+		{
+			module: "weatherforecast",
+			position: "top_right",
+			header: "Prévisions météo",
+			config: {
+				location: "",
+				locationID: "3014795",
+				appid: "f58d6954b8402901c0ffab5378af902a"
+			}
+		},
+		{
+			module: "newsfeed",
+			position: "bottom_bar",
+			config: {
+				feeds: [
+					{
+						title: "Actualités",
+						url: "https://www.francetvinfo.fr/titres.rss"
+					},
+				],
+				showSourceTitle: true,
+				showPublishDate: true
+			}
+		},
+		/*
+		{
+			module: "MMM-pages",
+			config: {
+				modules:
+					[
+						["mmm-moon-phases", "weatherforecast", "calendar"],
+						["MMM-Globe"]
+					],
+				excludes: ["clock", "currentweather", "MMM-page-indicator", "newsfeed"],
+				rotationTime: 12000
+			}
+		 },
+		 {
+			module: "MMM-page-indicator",
+			position: "bottom_bar",
+		 },
+		 */
+	]
+};
+
+/*************** DO NOT EDIT THE LINE BELOW ***************/
+if (typeof module !== "undefined") {module.exports = config;}
