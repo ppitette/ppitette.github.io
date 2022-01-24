@@ -106,10 +106,3 @@ git remote add origin https://github.com/ppitette/hnde.git
 git branch -M main
 git push -u origin main
 ```
-
-
-
-```
-pavi15cs
-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
-```
