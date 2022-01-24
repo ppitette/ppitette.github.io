@@ -2,6 +2,6 @@
 
 Tests avec GitHub Pages.
 
-[Premier tuto](linux/howto_lets_encrypt_wildcard.md)
+[Linux](linux/index.md)
 
-[Réunions](linux/reunions/index.md)
+[Réunions](reunions/index.md)
