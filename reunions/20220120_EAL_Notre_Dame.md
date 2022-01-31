@@ -27,11 +27,15 @@ Les feuilles qui servent à colationner l'emprunt des clés de la cathédarle so
 
 ## Points à revoir
 
-## Feuilles de chant
+### Feuilles de chant
 
 * Réduction dela quantité à imprimer
 * traçage des quantités lors des grandes cérémonies (assistance plus nombreuse qu'à l'acoutumée)
 * Référence des chants !
+
+### Propositions de répétitions de nouveaux chants
+
+* en commançant par la psalmodie de l'*orate fratres*
 
 ## Prochaine réunion
 
