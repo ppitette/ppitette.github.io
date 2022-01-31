@@ -7,40 +7,31 @@
 
 ## Démarche Synodale
 
-Sujet(s) :
+Le thème retenu pour notre contribution à la démarche synodale est "Les compagnons de voyage".
 
-1. Les compagnons de voyage
-2. Écouter
-3. Prendre la parole
-4. Célébrer
-5. Coresponsables dans la mission
-6. Dialoguer dans l’Église et dans la société
-7. Avec les autres confessions chrétiennes
-8. Autorité et participation
-9. Discerner et décider
-10. Se former à la synodalité
-
-Les dix thèmes sont exposés dans le document intitulé "feuille de route" à retrouver sur le site internet du diocèse : [page](https://evreux.catholique.fr/je-me-documente/eglise-universelle/dossiers/synode-pour-une-eglise-synodale-communion-participation-mission/priere-synode-pour-une-eglise-synodale)
-
-Je vous propose de venir à la réunion en ayant réfléchi au ou aux (pas trop) thèmes qui vous inspirent. Nous choisirons en 'live' et enchainerons avec le temsp d'échange.
+Le compte-rendu sera rédigé sur un document distinct.
 
 > Le compte-rendu devra être envoyé pour le 23 janvier au plus tard.
 
-## Feuilles de chant
-
-Quantité à diminuer
-
-Référence des chants !
-
 ## Portail nord
 
-La DRAC a validé la demande de pose d'un groom sur le portail nord afin de maintenir la porte fermée pour éviter l'entrée des pigeons et limite celle de l'air froid
+La DRAC a validé la demande de pose d'un groom sur le portail nord afin de maintenir la porte fermée pour éviter l'entrée des pigeons et limiter celle de l'air froid.
 
 ## Groupe de chant
 
-## Pointage de lemprunt des clés
+Compte tenu du trop faible nombre de personnes qui se déplacent pour les répetitions du groupe de chant, il est décidé de metre fin à ses activités. Il est néanmoins convenu que des propositions seront faites aux assemblées sur des sujets ciblés : apprentissage d'un nouvel ordinaire ou de nouveaux chants, apprentissage de la psalmodie de l'*orate fratres* (nouvelle traduction du missel romain, etc.
 
-## Points divers
+## Pointage de l'emprunt des clés
+
+Les feuilles qui servent à colationner l'emprunt des clés de la cathédarle sont en désordre au risque de perdre toute les de la traçabilité réclamée qui plsu est par la DRAC. Pascal va installer un classeur agrémenté d'un mode d'emploi de sorte que les feuilles puissent être correctement remplies et que celles qui sont complétées soient convenablement consersées.
+
+## Points à revoir
+
+## Feuilles de chant
+
+* Réduction dela quantité à imprimer
+* traçage des quantités lors des grandes cérémonies (assistance plus nombreuse qu'à l'acoutumée)
+* Référence des chants !
 
 ## Prochaine réunion
 
