@@ -9,12 +9,13 @@ yarn install
 
 ## Sass
 
-renommer le/les fichiers `assets/styles*.css` en `assets/styles*.scss`
+- dans le répertoire `assets/styles/` renommer le/les fichiers `*.css` en `*.scss`
+- dans le ficher `assets/app.js` modifier la ligne `import './styles/app.css';` en `import './styles/app.scss';`
 
 Installer Sass :
 
 ```
-yarn add dart-sass sass-loader --dev
+yarn add sass-loader sass --dev
 ```
 
 dans `webpack.config.js`, décommenter la ligne :

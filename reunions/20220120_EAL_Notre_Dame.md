@@ -9,9 +9,7 @@
 
 Le thème retenu pour notre contribution à la démarche synodale est "Les compagnons de voyage".
 
-Le compte-rendu sera rédigé sur un document distinct.
-
-> Le compte-rendu devra être envoyé pour le 23 janvier au plus tard.
+Le compte-rendu est rédigé sur un document distinct.
 
 ## Portail nord
 
@@ -19,23 +17,23 @@ La DRAC a validé la demande de pose d'un groom sur le portail nord afin de main
 
 ## Groupe de chant
 
-Compte tenu du trop faible nombre de personnes qui se déplacent pour les répetitions du groupe de chant, il est décidé de metre fin à ses activités. Il est néanmoins convenu que des propositions seront faites aux assemblées sur des sujets ciblés : apprentissage d'un nouvel ordinaire ou de nouveaux chants, apprentissage de la psalmodie de l'*orate fratres* (nouvelle traduction du missel romain, etc.
+Compte tenu du trop faible nombre de personnes qui se déplacent pour les répétitions du groupe de chant, il est décidé de suspendre ses activités sous sa forme actuelle. Il est néanmoins convenu que des propositions seront faites aux assemblées sur des sujets ciblés : apprentissage d'un nouvel ordinaire ou de nouveaux chants, apprentissage de la psalmodie de l'*orate fratres* (nouvelle traduction du missel romain, etc.
 
 ## Pointage de l'emprunt des clés
 
-Les feuilles qui servent à colationner l'emprunt des clés de la cathédarle sont en désordre au risque de perdre toute les de la traçabilité réclamée qui plsu est par la DRAC. Pascal va installer un classeur agrémenté d'un mode d'emploi de sorte que les feuilles puissent être correctement remplies et que celles qui sont complétées soient convenablement consersées.
+Les feuilles qui servent à collationner l'emprunt des clés de la cathédrale sont en désordre au risque de perdre toute les de la traçabilité réclamée qui plus est par la DRAC. Pascal va installer un classeur agrémenté d'un mode d'emploi de sorte que les feuilles puissent être correctement remplies et que celles qui sont complétées soient convenablement conservées.
 
 ## Points à revoir
 
 ### Feuilles de chant
 
-* Réduction dela quantité à imprimer
-* traçage des quantités lors des grandes cérémonies (assistance plus nombreuse qu'à l'acoutumée)
+* Réduction de la quantité à imprimer
+* traçage des quantités lors des grandes cérémonies (assistance plus nombreuse qu'à l'accoutumée)
 * Référence des chants !
 
 ### Propositions de répétitions de nouveaux chants
 
-* en commançant par la psalmodie de l'*orate fratres*
+* en commençant par la psalmodie de l'*orate fratres*
 
 ## Prochaine réunion
 
