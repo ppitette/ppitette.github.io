@@ -16,10 +16,11 @@ La communauté locale Notre Dame, centrée sur la cathédrale Notre Dame d'Évre
 ## Qui sont nos _compagnons de voyage_ ?
 
 - Les membres des différentes équipes qui qui oeuvrent au service de la mission : EAP, EAL, équipes funérailles, préparation au mariage, catéchèse, etc.,
-- Les chrétiens (ou non) qui viennent aux messes du dimanches ou de la semaine,
+- Les chrétiens qui viennent aux messes du dimanches ou de la semaine,
+- Les services du diocèse et les chrétiens qui viennent pour les célébrations diocésaines,
 - Les personnes qui poussent la porte de l'accueil,
-- Les personnes qui visitent les deux églises de la paroisse,
-- Les membres d'associations comme l'AMORCE (Amis des Orgues),
+- Les touristes de passage,
+- Les associations comme l'AMORCE (Amis des Orgues),
 - Les agents de l'état ou de la commune qui interviennent à des titres divers dans ou autour des deux églises,
 
 ## Quels constats faisons-nous ?
@@ -32,8 +33,8 @@ Chargée plus particulièrement de ce qui relève de la proximité l'EAL doit s'
 
 Les célébrations eucharistiques sont un lieu où passent tous les chrétiens de la paroisse mais nous sommes loin de les connaître tous. Il ne peut s'agir d'identifier absolument tous les participants ne serait-ce qu'en raison de la taille des assemblées, mais si au moins nous pouvions mieux connaître le noyau plus restreint de celles et ceux qui sont présents le plus souvent ! Il nous faut admettre qu'il est des personnes que nous voyons pratiquement tous les dimanches et dont nous ne connaissons même pas le nom !
 
-Comment de surcroît permettre le renforcement ou le renouvellement des équipes si nous n'avons pas au préalable identifié parce que nous les connaitrions, celles et ceux qui nous pourrions appeler ? Le faible taux de réponse aux consultations pour le renouvellement de l'EAP est un exemple flagrant de cet état de fait.
+Comment prendre soin de autres si on ne les connaît pas ? Si on ignore qui ils sont, où ils habitent, s'ils participent ou non à un groupe ou s'ils en ont le désir, s'ils ont eux même le sentiment de _marcher avec_ ? Comment de surcroît permettre le renforcement ou le renouvellement des équipes si nous n'avons pas au préalable identifié, parce que nous les connaitrions, celles et ceux qui nous pourrions appeler ? Le faible taux de réponse aux consultations pour le renouvellement de l'EAP est un exemple flagrant de cet état de fait.
 
 Depuis le début de la pandémie, l'impossibilité de se rassembler à certains moments, le port du masque et toutes les précautions associées ont accru encore les distances entre les personnes mais, paradoxalement, ont finalement remis la question de la proximité au centre des préoccupations.
 
-Il nous faut trouver impérativement les moyens pour que se tissent de nouveaux les liens qui se sont perdus et susciter chez nous comme chez nos _compagnons de voyage_ la saine curiosité et que l'audace d'aller à la rencontre.
+Il nous faut trouver impérativement les moyens pour que se tissent de nouveaux les liens qui se sont peut-être perdus et susciter en nous comme chez nos _compagnons de voyage_ le souci d'entrer en relation avec le proche pas ou mal connu et de savoir si nécessaire le mettre en relation avec d'autres.

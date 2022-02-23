@@ -7,7 +7,7 @@
 
 ## Démarche Synodale
 
-Le thème retenu pour notre contribution à la démarche synodale est "Les compagnons de voyage".
+Le thème retenu pour notre contribution à la démarche synodale est _Les compagnons de voyage_.
 
 Le compte-rendu est rédigé sur un document distinct.
 
