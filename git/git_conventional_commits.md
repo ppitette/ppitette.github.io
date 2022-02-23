@@ -23,7 +23,7 @@ The message should follow this regex:
 
 # Liens
 
-- [conventionalcommits.org] (https://www.conventionalcommits.org/fr/v1.0.0/ "lien")
-- [Vue.js commit convention] (https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md "lien")
-- [conventional-changelog] (https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular "A nice tool to generate changelog based on the git message.")
-- [commitlint] (https://github.com/conventional-changelog/commitlint "A git commit linter. Use it with Husky.")
+- [conventionalcommits.org](https://www.conventionalcommits.org/fr/v1.0.0/ "lien")
+- [Vue.js commit convention](https://github.com/vuejs/vue/blob/dev/.github/COMMIT_CONVENTION.md "lien")
+- [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-angular "A nice tool to generate changelog based on the git message.")
+- [commitlint](https://github.com/conventional-changelog/commitlint "A git commit linter. Use it with Husky.")

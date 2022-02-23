@@ -1,4 +1,4 @@
-# MariaDB sheat cheet
+# MariaDB cheat cheet
 
 ## acces
 sudo mysql -u root -p

@@ -1,3 +1,5 @@
+# Traductions
+
 | Domaine  | Code                      | Traduction                                       |
 | :--------| :------------------------ | :----------------------------------------------- |
 | messages | label_nom                 | Nom                                              |

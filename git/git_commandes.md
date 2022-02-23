@@ -1,4 +1,4 @@
-# GIT
+# Commandes GIT
 
 ## Initialisation
 
