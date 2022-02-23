@@ -1,4 +1,4 @@
-# Installation
+# Application Monica
 
 ```
 sudo git clone https://github.com/monicahq/monica.git

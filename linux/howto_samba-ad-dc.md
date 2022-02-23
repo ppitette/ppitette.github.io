@@ -1,4 +1,4 @@
-# Configuration de Samba en tant que contrôleur de domaine Active Directory
+# Configurer Samba en tant que contrôleur de domaine Active Directory
 
 Il est chois d'utiliser bind9 pour le DNS
 

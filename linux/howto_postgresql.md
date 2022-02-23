@@ -1,4 +1,4 @@
-# Postgresql
+# Serveur Postgresql
 
 ## Installation
 ```

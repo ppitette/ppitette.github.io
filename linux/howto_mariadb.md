@@ -1,4 +1,4 @@
-# MariaDB
+# Serveur MariaDB
 
 ## Installation
 

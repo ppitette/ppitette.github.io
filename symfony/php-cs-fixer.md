@@ -1,16 +1,18 @@
-# Installation (global avec composer)
+# php-cs-fixer
+
+## Installation (global avec composer)
 
 ```
 composer global require friendsofphp/php-cs-fixer
 ```
 
-# Mise à jour (global avec composer)
+## Mise à jour (global avec composer)
 
 ```
 composer global update friendsofphp/php-cs-fixer
 ```
 
-# Utilisation
+## Utilisation
 
 [Documentation](https://github.com/FriendsOfPHP/PHP-CS-Fixer "doc sur github")
 

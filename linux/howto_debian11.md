@@ -1,4 +1,4 @@
-# Installation Serveur Debian 10 (HP Proliant rack)
+# Installation Serveur Debian 11 (HP Proliant rack)
 
 ## Installation minimale du serveur
 
