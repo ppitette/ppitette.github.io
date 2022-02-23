@@ -37,4 +37,4 @@ Les feuilles qui servent à collationner l'emprunt des clés de la cathédrale s
 
 ## Prochaine réunion
 
-__le jj/mm/2022 à 20h30__
+__le 08/03/2022 à 20h30__

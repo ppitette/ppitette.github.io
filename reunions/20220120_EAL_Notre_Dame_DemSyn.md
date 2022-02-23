@@ -19,5 +19,6 @@ Les deux communautés locales assurent en commun l'essentiel des missions dévol
 
 L'EAL Notre Dame se préoccupe aussi du nombre important de personnes présentes lors des offices dominicaux et qu'elle ne connait pas ou très peu. Des associations, services de l'État et de la commune gravitent autour des deux églises de la paroisse sans être toujours formellement identifiés. Enfin, l'église cathédrale est naturellemment un lieu ou se déroulement nombre d'évenements diocésains.
 
-Marcher ensemble est, dans ce contexte particulièrement malaisé.
+Dans ce contexte, _Marcher ensemble_ est particulièrement malaisé.
 
+C'est ainsi que L'EAL Notre Dame cherche les moyens de s'assusre
