@@ -168,3 +168,44 @@ SELECT inscription.numsdp, personne.nom, personne.prenom, personne.nb_pele FROM 
 ```sql
 UPDATE personne RIGHT JOIN inscription ON personne.id = inscription.pelerin_id SET personne.nb_pele = 1 WHERE inscription.insc_statut < 8 AND (inscription.hors_eff IS TRUE OR inscription.entite = 4);
 ```
+
+## Mise à jour de la bdd mariadb
+
+### prise en compte d'une désinscription
+
+```sql
+UPDATE hnde_personne SET lr_courriel = TRUE WHERE hnde_personne.courriel = 'simondubus@sfr.fr';
+```
+
+### export de la mailing-list depuis la bdd
+
+```sql
+SELECT db_personne.courriel, db_personne.nom, db_personne.prenom, db_personne.liste, db_personne.date_naiss, db_personne.d_pele FROM db_personne WHERE db_personne.courriel IS NOT NULL AND db_personne.lr_courriel IS FALSE AND db_personne.decede IS FALSE;
+```
+
+### Mise à jour du champ courriel
+
+```sql
+-- Contrôle
+SELECT db_personne.liste, db_personne.nom, db_personne.prenom, db_personne.lr_courriel, db_personne.courriel FROM `db_personne` WHERE `courriel` = '';
+
+-- Mise à jour
+UPDATE db_personne SET db_personne.courriel = NULL WHERE db_personne.courriel = '';
+```
+
+### Hospitaliers 18-30
+
+```sql
+SELECT db_personne.liste, db_personne.nom, db_personne.prenom, YEAR(NOW())-YEAR(db_personne.date_naiss) AS age FROM `db_personne` WHERE YEAR(NOW())-YEAR(db_personne.date_naiss) <= 30 AND db_personne.liste = 'HOSP';
+```
+
+### Hospitaliers décédés
+
+```sql
+SELECT db_personne.liste, db_personne.nom, db_personne.prenom, db_personne.date_deces, db_personne.date_naiss, YEAR(db_personne.date_deces)-YEAR(db_personne.date_naiss) AS age FROM `db_personne` WHERE db_personne.decede = TRUE;
+```
+
+```sql
+SELECT db_personne.id, db_personne.civilite, db_personne.nom, db_personne.prenom, db_personne.date_naiss, db_personne.decede, db_personne.date_deces FROM `db_personne`;
+```
+

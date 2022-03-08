@@ -18,3 +18,13 @@ La seule chose qui n'utilise pas Docker est la stratégie de sauvegarde car elle
 J'ai essayé d'inclure autant de références que possible et d'inclure également la sécurité, car elle peut être facilement négligée lors de l'auto-hébergement.
 
 Ce guide peut être utile pour les débutants ainsi que pour les auto-hébergeurs expérimentés qui cherchent à migrer vers Docker, ou si vous êtes juste intéressé à voir comment Docker fonctionne.
+
+## Compléments
+
+https://blog.eleven-labs.com/fr/utiliser-traefik-comme-reverse-proxy/
+
+https://medium.com/nephely/configure-traefik-for-the-dns-01-challenge-with-ovh-as-dns-provider-c737670c0434
+
+
+adminsit:$apr1$D/YJtyLQ$wWzhasPU/a4fUVGBAdzxs0
+90.70.40.74
