@@ -57,6 +57,14 @@ Pose d'une boite à clé près de la porte du secrétariat ?
 
 Pose d'un coffre à clés sécurisé mural ? et où ?
 
+## Nettoyage de la cathédrale
+
+-
+
+## semaine sainte
+
+-
+
 # Prochaine réunion
 
 __le xx/xx/2022 à 20h30__
