@@ -5,31 +5,35 @@
 * Marie-Annick Esnault - 06 71 47 52 59 - marieannick.esnault@free.fr
 * Pascal Pitette - 06 84 07 88 57 pascal.pitette@outlook.fr 
 
-# Actions terminées
+## Actions terminées
 
 ### Pointage de l'emprunt des clés
 
-Le classeur est mis en place depuis le 07/08. Reste une aprge de garde à aposé sur le couverture et les feuiiles de pointage de réseve à (re)concevoir, imprimer et glisser dans l
+Le classeur est mis en place depuis le 07/08. Reste à créer une page de garde à poser sur le couverture et les feuilles de pointage de réseve à (re)concevoir (?), imprimer et glisser dans la pochette plastique.
 
-# Actions en cours
+## Actions en cours
 
-## Concert du Choeur de Sartene.
+### Concert du Choeur de Sartene
 
 Il aura bien lieu à la Cathédrale le 29/04 à 20h30 (?).
 
-Montant de la contribution paroisse : ?
+Le groupe sera placé devant la grille du choeur, tourné vers le grand orgue.
 
-Présence paroisse et fermeture de la Cathédrale : Pascal P
+> Montant de la contribution paroisse : ?
 
-## Portail nord
+Présence paroisse et fermeture de la Cathédrale : Pascal
+
+> information sur la fermeture et les points d'attention.
+
+### Portail nord
 
 D'après Alexia Boutigny la pose est prévue...
 
-## Nettoyage du Garage
+### Nettoyage du garage
 
 Commencé le 07/03, à terminer.
 
-## Clé de l'orgue de Saint Taurin
+### Clé de l'orgue de Saint Taurin
 
 Vu avec Jean-Christophe Revel. Une seul clé est nécessaire : accès à l'intérieur de l'orgue depuis l'issue située face à l'escalier d'accès à la tribune.
 
@@ -37,34 +41,40 @@ Contact avec la Serurerie Kergus... il faut leur envoyer une photo à serrurerie
 
 Serrurerie Kergus : 828 Rue Jacquard 27000 Evreux | Tél : 02 32 23 04 52
 
-## Feuilles de chant
+### Feuilles de chant
 
 * Réduction de la quantité à imprimer
 * traçage des quantités lors des grandes cérémonies (assistance plus nombreuse qu'à l'accoutumée)
 * Référence des chants !
 
-## Propositions de répétitions de nouveaux chants
+### Propositions de répétitions de nouveaux chants
 
 * en commençant par la psalmodie de l'*orate fratres*
 
-# Actions à envisager
+Voir la feuille.
 
-## Accès aux clé
+## Actions à envisager
+
+### Accès aux clé
 
 Pose d'une boite à clé près de la porte du secrétariat ?
 
-## Clé du secrétariat
+### Clé du secrétariat
 
 Pose d'un coffre à clés sécurisé mural ? et où ?
 
-## Nettoyage de la cathédrale
+### Nettoyage de la cathédrale
 
 -
 
-## semaine sainte
+### Images
+
+Distribution le ?
+
+### semaine sainte
 
 -
 
-# Prochaine réunion
+## Prochaine réunion
 
 __le xx/xx/2022 à 20h30__
