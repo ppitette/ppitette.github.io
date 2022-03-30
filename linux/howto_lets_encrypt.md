@@ -9,7 +9,7 @@ sudo certbot --apache -d hnde.org -d www.hnde.org
 ```
 
 ```bash
-sudo certbot certonly --webroot -w /var/www/nextcloud --agree-tos --no-eff-email --email webmaster@pitette.org -d cloud.pitette.org --rsa-key-size 4096
+sudo certbot certonly --webroot -w /var/www/hnde --agree-tos --no-eff-email --email webmaster@hnde.org -d appli.hnde.org --rsa-key-size 4096
 ```
 
 ```bash

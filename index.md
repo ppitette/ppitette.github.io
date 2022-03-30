@@ -10,6 +10,8 @@
 
 [Tutoriels](tutoriels/index.md)
 
+[Docker](docker/index.md)
+
 ## Réunions
 
 [EAL Notre Dame](reunions/index.md)

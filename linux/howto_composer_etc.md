@@ -18,8 +18,9 @@ Composer version 2.0.11 2021-02-24 14:57:23
 ## Installation de Symfony-cli (en global)
 
 ```bash
-wget https://get.symfony.com/cli/installer -O - | bash
-sudo mv /home/adminsit/.symfony/bin/symfony /usr/local/bin/symfony
+echo 'deb [trusted=yes] https://repo.symfony.com/apt/ /' | sudo tee /etc/apt/sources.list.d/symfony-cli.list
+sudo apt update
+sudo apt install symfony-cli
 ```
 
 ```bash
@@ -46,10 +47,9 @@ v15.12.0
 ## Installation de yarn (en global)
 
 ```bash
-curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
-echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
-sudo apt update
-sudo apt install yarn
+curl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | gpg --dearmor | sudo tee /usr/share/keyrings/yarnkey.gpg >/dev/null
+echo "deb [signed-by=/usr/share/keyrings/yarnkey.gpg] https://dl.yarnpkg.com/debian stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+sudo apt-get update && sudo apt-get install yarn
 ```
 
 ```bash
