@@ -459,3 +459,5 @@ Personnellement je l’utilise de plus en plus pour mes projets (d’ailleurs ce
 PS: Repo Github contenant l’app complète utilisée dans cet article : [Article](https://github.com/ygalescot/symfony-tutorials/tree/tailwind-in-symfony)
 
 [Page originale](https://www.yourigalescot.com/fr/blog/comment-integrer-tailwindcss-v3-a-un-projet-symfony-avec-webpack-encore)
+
+[Niveau supérieur](../index.md)

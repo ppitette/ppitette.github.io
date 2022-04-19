@@ -2,8 +2,6 @@
 
 ## Informatique
 
-[GIT](git/index.md)
-
 [Linux](linux/index.md)
 
 [Symfony](symfony/index.md)

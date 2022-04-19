@@ -2,7 +2,7 @@
 
 ## Installation
 
-```zsh
+```bash
 sudo apt install ufw
 ```
 
@@ -14,7 +14,7 @@ L'outil UFW n'est pas activé par défaut, il vous faut donc avoir les droits ad
 
 Vérifier le statut actuel :
 
-```zsh
+```bash
 sudo ufw status
 ```
 
@@ -22,19 +22,19 @@ sudo ufw status
 
 Activer UFW : (c'est à dire appliquer les règles définies) 
 
-```zsh
+```bash
 sudo ufw enable
 ```
 
 Désactiver UFW : (c'est à dire ne plus appliquer les règles définies) 
 
-```zsh
+```bash
 sudo ufw disable
 ```
 
 ### Afficher l'état actuel des règles
 
-```zsh
+```bash
 sudo ufw status verbose
 ```
 
@@ -43,36 +43,36 @@ L'argument verbose est optionnel, cependant il est vivement recommandé car il p
 --------------------------------------------------------------------------------
 
 ## Autoriser l'accès en SSH
-```zsh
+```bash
 sudo ufw allow 'SSH'
 ```
 
 ## Liste des modules
 
-```zsh
+```bash
 sudo ufw app list
 ```
 
 ## Caractéristiques d'un module
 
-```zsh
+```bash
 sudo ufw app info 'WWW'
 ```
 
 ## Autoriser un serveur web
 
-```zsh
+```bash
 sudo ufw allow 'WWW'
 ```
 
 ## Autoriser un serveur web (en https)
 
-```zsh
+```bash
 sudo ufw allow 'WWW Secure'
 ```
 
 ou
 
-```zsh
+```bash
 sudo ufw allow 'WWW Full'
 ```

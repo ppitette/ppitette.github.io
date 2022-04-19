@@ -1,6 +1,6 @@
 # Installation de PHPMyAdmin
 
-Depuis Debian 10, PHPMyAdmin n'est plus disponible sous forme de paquet.deb. C'est pourquoi nous l'installerons à partir des sources.
+Depuis Debian 10, PHPMyAdmin n'est plus disponible sous forme de paquet `.deb`. C'est pourquoi nous l'installerons à partir des sources.
 
 Créer des dossiers pour PHPMyadmin :
 

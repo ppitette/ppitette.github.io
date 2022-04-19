@@ -46,10 +46,8 @@
 
 [Serveur VPS OVH)](howto_vps_debian11.md)
 
-[Sécurité Site WEB](securite_web.md)
-
 [UFW (Uncomplicated Firewall](howto_ufw.md)
 
-[Tailwind 3](howto_tailwind.md)
+[Tailwind 3](howto_tailwind/index.md)
 
 [Niveau supérieur](../index.md)
